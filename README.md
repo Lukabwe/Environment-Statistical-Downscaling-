@@ -1,3 +1,4 @@
-# Environment-Statistical-Downscaling-
-Here we developpe R tools for Environment Statistical Downscaling
-I am a meteorological engineer and a management master. I like to implement solutions for optimizing work, and that's what we will do together.
+# Statdown
+ 
+ This is the package about Environment Statistical Downscaling of output of GCM.
+ Install from GitHub :  devtools::install_github("Lukabwe/Statdown")
